@@ -2,51 +2,41 @@
 	{ 
 	"name":"FestivAndes",
 	"description":"Transactional System (Course proyect)",
-	"detail": "When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest qua",
-	"date": "February 2016 - May 2016",
+	"detail": "Transactional system to meet the needs of a festival organizer, including user administration, reservations, purchases and locations.",
+	"date": "February 2017 - May 2017",
 	"img":"img/festivAndes.jpg",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
 	"lang":"Java - SQL",
-	"tec":"Oracle 11g - RedHat"	
+	"tec":"Oracle 11g - RedHat - WildFly - RabbitMqtt"	
 	},
 	{ 
-	"name":"FestivAndes",
-	"description":"Transactional System (Course proyect)",
-	"detail": "When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest qua",
-	"date": "February 2016 - May 2016",
-	"img":"img/festivAndes.jpg",
+	"name":"Paseos Ecologicos",
+	"description":"Transactional web application (Course proyect)",
+	"detail": "Transactional web application to manage ecological tours promoted by government organization. It includes the handling of inscriptions, calendars and activities.",
+	"date": "February 2017 - May 2017",
+	"img":"img/paseosEcologicos.jpg",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
 	"lang":"Java - SQL",
-	"tec":"Oracle 11g - RedHat"	
+	"tec":"DerbyBD - Glassfish"	
 	},
 	{ 
-	"name":"FestivAndes",
-	"description":"Transactional System (Course proyect)",
-	"detail": "When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest qua",
-	"date": "February 2016 - May 2016",
-	"img":"img/festivAndes.jpg",
+	"name":"Sistema de Minas",
+	"description":"IoT System (Course proyect)",
+	"detail": "IoT application for the manage of a mine system and, specifically, the control of the different environmental variables (temperature, light, humidity, carbon monoxide) that can affect the internal processes of each level.",
+	"date": "August 2017 - November 2017",
+	"img":"http://1.bp.blogspot.com/-KT-ogrMdb0s/VLlHUaRtcrI/AAAAAAAAHn8/VTpdYfMrhAc/s1600/ArduinoUnoPoster.jpg",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
-	"lang":"Java - SQL",
-	"tec":"Oracle 11g - RedHat"	
+	"lang":"Java  - Python",
+	"tec":"Framework Play - Kafka/Zookeeper - Arduino - NodeRed - CassandraBD"	
 	},
 	{ 
-	"name":"FestivAndes",
-	"description":"Transactional System (Course proyect)",
-	"detail": "When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest qua",
-	"date": "February 2016 - May 2016",
-	"img":"img/festivAndes.jpg",
+	"name":"Tutorial REST",
+	"description":"REST services tutorial and base architecture",
+	"detail": "Basic tutorial to teach the implementation of REST services in the context of transactional systems. Includes descriptions of a 4-layer architecture and multiple tests to verify its operation.",
+	"date": "January 2018 - February 2018",
+	"img":"img/tutorialRest.png",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
 	"lang":"Java - SQL",
-	"tec":"Oracle 11g - RedHat"	
-	},
-	{ 
-	"name":"FestivAndes",
-	"description":"Transactional System (Course proyect)",
-	"detail": "When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcoming atmosphere, and above all else, excellent products made with the highest qua",
-	"date": "February 2016 - May 2016",
-	"img":"img/festivAndes.jpg",
-	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
-	"lang":"Java - SQL",
-	"tec":"Oracle 11g - RedHat"	
+	"tec":"Oracle 11g - RedHat - WildFly server"	
 	}
 ]
