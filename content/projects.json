@@ -4,7 +4,7 @@
 	"description":"Transactional System (Course proyect)",
 	"detail": "Transactional system to meet the needs of a festival organizer, including user administration, reservations, purchases and locations.",
 	"date": "February 2017 - May 2017",
-	"img":"img/festivAndes.jpg",
+	"img":"img/festivAndes.jpeg",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
 	"lang":"Java - SQL",
 	"tec":"Oracle 11g - RedHat - WildFly - RabbitMqtt"	
@@ -14,7 +14,7 @@
 	"description":"Transactional web application (Course proyect)",
 	"detail": "Transactional web application to manage ecological tours promoted by government organization. It includes the handling of inscriptions, calendars and activities.",
 	"date": "February 2017 - May 2017",
-	"img":"img/paseosEcologicos.jpg",
+	"img":"img/paseosEcologicos.jpeg",
 	"url":"https://es.wikipedia.org/wiki/Wikipedia:Portada",
 	"lang":"Java - SQL",
 	"tec":"DerbyBD - Glassfish"	

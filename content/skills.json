@@ -1,22 +1,30 @@
 [
 	{ 
-	"img":"img/example.jpg",
+	"img":"https://revistadigital.inesem.es/informatica-y-tics/files/2015/10/inesem-java.jpg",
 	"skill":"Java"	
 	},
 	{ 
-	"img":"img/example.jpg",
-	"skill":"Java"	
+	"img":"https://www.linuxadictos.com/wp-content/uploads/python-logo-1.jpg",
+	"skill":"Python"	
 	},
 	{ 
-	"img":"img/example.jpg",
-	"skill":"Java"	
+	"img":"http://2.bp.blogspot.com/-FX00EIt6W2o/UwyrmFmcy0I/AAAAAAAABM4/H2AZ7SAAvvs/s1600/sql.jpg",
+	"skill":"SQL"	
 	},
 	{ 
-	"img":"img/example.jpg",
-	"skill":"Java"	
+	"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png",
+	"skill":"HTML (current learning)"	
 	},
 	{ 
-	"img":"img/example.jpg",
-	"skill":"Java"	
+	"img":"http://www.manejandodatos.es/wp-content/uploads/2017/04/javascript.png",
+	"skill":"JavaScript(current learning)"	
+	},
+	{ 
+	"img":"http://www.ticarte.com/sites/su/styles/max/public/users/380/teaser/arduino-logosvg.png?itok=lK5hbksi",
+	"skill":"Arduino"	
+	},
+	{ 
+	"img":"http://www.aprende-facilmente.com/wp-content/uploads/2016/07/angularjs-logo.png",
+	"skill":"AngularJS"	
 	}
 ]

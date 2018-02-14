@@ -1,30 +1,30 @@
 [
 	{ 
-	"activity":"Monitoria - Matematica Estructural y Logica",
-	"contacto":"Silvia Takahashi",
-	"urlContacto": "https://profesores.virtual.uniandes.edu.co/stakahas/es/inicio/",
-	"date": "February 2016 - May 2016",
-	"description":"When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcomi"
+	"activity":"Monitoria - Discrete mathematics (Uniandes)",
+	"contacto":"Juan Francisco Diaz Frias",
+	"urlContacto": "http://eisc.univalle.edu.co/index.php/la-escuela/profesores/juan-francisco-diaz-frias",
+	"date": "August 2016 - November 2016",
+	"description":"Course where you have the first approach to discrete mathematics, including propositional logic, sets, demonstrations and various tools of logical reasoning. As the teacher's assistant, doubts are solved on all topics and the various activities are graded."
 	},
 	{ 
-	"activity":"Monitoria - Matematica Estructural y Logica",
-	"contacto":"Silvia Takahashi",
+	"activity":"Monitoria - Discrete mathematics (Uniandes)",
+	"contacto":"Silvia Takahashi Rodríguez",
 	"urlContacto": "https://profesores.virtual.uniandes.edu.co/stakahas/es/inicio/",
-	"date": "February 2016 - May 2016",
-	"description":"When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcomi"
+	"date": "January 2017 - May 2017",
+	"description":"Course where you have the first approach to discrete mathematics, including propositional logic, sets, demonstrations and various tools of logical reasoning. As the teacher's assistant, doubts are solved on all topics and the various activities are graded."
+	},	
+	{ 
+	"activity":"Monitoria - Transactional Systems (Uniandes) ",
+	"contacto":"Claudia Lucia Jimenez Guarin",
+	"urlContacto": "https://profesores.virtual.uniandes.edu.co/cjimenez/es/inicio/",
+	"date": "August 2017 - November 2017",
+	"description":"Course where the problem of persistence is addressed, the fundamentals of the relational model are studied, SQL is learned and the modeling of systems is reinforced considering multiple business rules."
 	},
 	{ 
-	"activity":"Monitoria - Matematica Estructural y Logica",
-	"contacto":"Silvia Takahashi",
-	"urlContacto": "https://profesores.virtual.uniandes.edu.co/stakahas/es/inicio/",
-	"date": "February 2016 - May 2016",
-	"description":"When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcomi"
-	},
-	{ 
-	"activity":"Monitoria - Matematica Estructural y Logica",
-	"contacto":"Silvia Takahashi",
-	"urlContacto": "https://profesores.virtual.uniandes.edu.co/stakahas/es/inicio/",
-	"date": "February 2016 - May 2016",
-	"description":"When you walk into our shop to start your day, we are dedicated to providing you with friendly service, a welcomi"
+	"activity":"Monitoria - Transactional Systems (Uniandes)",
+	"contacto":"German Enrique Bravo Cordoba",
+	"urlContacto": "https://profesores.virtual.uniandes.edu.co/gbravo/es/inicio/",
+	"date": "January 2018 - May 2018",
+	"description":"Course where the problem of persistence is addressed, the fundamentals of the relational model are studied, SQL is learned and the modeling of systems is reinforced considering multiple business rules"
 	}
 ]
