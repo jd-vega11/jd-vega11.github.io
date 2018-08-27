@@ -1,0 +1,112 @@
+h2,p.stickyNotes{
+  font-size:100%;
+  font-weight:normal;
+}
+
+#notesUl ul{
+  overflow:hidden;
+  padding:3em;
+}
+.stickyNotes ul,li{
+  list-style:none;  
+}
+
+ul li a.stickyNotes{
+  text-decoration:none;
+  color:#000;
+  background:#ffc;
+  display:block;
+  height:10em;
+  width:10em;
+  padding:1em;
+  /* Firefox */
+  -moz-box-shadow:5px 5px 7px rgba(33,33,33,1); 
+  /* Safari+Chrome */
+  -webkit-box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  /* Opera */
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+
+  /*Para que el cambio de ladear y hacer zoom sea suave (1/4 de segundo) */
+  -moz-transition:-moz-transform .15s linear;
+  -o-transition:-o-transform .15s linear;
+  -webkit-transition:-webkit-transform .15s linear;
+}
+ul li.stickyNotes{
+  margin:1em;
+  float:left;
+}
+
+ul li h2.stickyNotes{
+  font-size:140%;
+  font-weight:bold; 
+  padding-bottom:10px;
+}
+
+ul li p.stickyNotes{
+  font-family:"Reenie Beanie",arial,sans-serif;
+  font-size:180%;
+}
+
+/* Para que las cajitas se ladeen en distintos grados segun el orden (asi es mas random)*/
+ul li:nth-child(even) a.stickyNotes{
+  -o-transform:rotate(4deg);
+  -webkit-transform:rotate(4deg);
+  -moz-transform:rotate(4deg);
+  position:relative;
+  top:5px;
+  background:#cfc;
+}
+ul li:nth-child(3n) a.stickyNotes{
+  -o-transform:rotate(-3deg);
+  -webkit-transform:rotate(-3deg);
+  -moz-transform:rotate(-3deg);
+  position:relative;
+  top:-5px;
+  background:#ccf;
+}
+ul li:nth-child(5n) a.stickyNotes{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+  background:#ffc;
+}
+
+ul li:nth-child(even) a.experienceC{
+  -o-transform:rotate(4deg);
+  -webkit-transform:rotate(4deg);
+  -moz-transform:rotate(4deg);
+  position:relative;
+  top:5px;
+  background:#cfc;
+}
+ul li:nth-child(3n) a.experienceC{
+  -o-transform:rotate(-3deg);
+  -webkit-transform:rotate(-3deg);
+  -moz-transform:rotate(-3deg);
+  position:relative;
+  top:-5px;
+  background:#ccf;
+}
+ul li:nth-child(5n) a.experienceC{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+  background:#ffc;
+}
+
+/* Para hacer zoom en las cajitas y aumentar el sombreado (pasando el mouse o haciendo click)*/
+ul li a:hover,ul li a:focus{
+  -moz-box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  /* Para que la mas grande cubra las otras  */
+  z-index:5;
+}
