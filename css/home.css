@@ -44,7 +44,7 @@ ul li h2.stickyNotes{
 
 ul li p.stickyNotes{
   font-family:"Reenie Beanie",arial,sans-serif;
-  font-size:180%;
+  font-size:100%;
 }
 
 /* Para que las cajitas se ladeen en distintos grados segun el orden (asi es mas random)*/
