@@ -1,10 +1,10 @@
-# Juan D. Vega's personal web site
+# Juan D. Vega's personal website
 
-### About
+## About
 
 This personal page is the first deliverable in the course ISIS 3710 (Programming with Web Technologies) of Los Andes University (Colombia). It includes a brief description of who I am, things I like, projects and experience.
 
-### Objective
+## Objective
 
 Start my journey in web development through a personal web page where fundamental concepts and best practices of structuring and styling are applied.
 
@@ -12,7 +12,7 @@ Start my journey in web development through a personal web page where fundamenta
 
 This web page was developed using HTML5, CSS3, JavaScript and associated libraries (Bootstrap and JQuery).
 
-### Deployment
+## Deployment
 
 In order to display this web page in your browser, just go to the URL [jd-vega11.github.io] (https://jd-vega11.github.io/). 
 
