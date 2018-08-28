@@ -43,8 +43,8 @@ ul li h2.stickyNotes{
 }
 
 ul li p.stickyNotes{
-  font-family:"Reenie Beanie",arial,sans-serif;
-  font-size:100%;
+  font-family:'Indie Flower', cursive;
+  font-size:130%;
 }
 
 /* Para que las cajitas se ladeen en distintos grados segun el orden (asi es mas random)*/
@@ -73,30 +73,6 @@ ul li:nth-child(5n) a.stickyNotes{
   background:#ffc;
 }
 
-ul li:nth-child(even) a.experienceC{
-  -o-transform:rotate(4deg);
-  -webkit-transform:rotate(4deg);
-  -moz-transform:rotate(4deg);
-  position:relative;
-  top:5px;
-  background:#cfc;
-}
-ul li:nth-child(3n) a.experienceC{
-  -o-transform:rotate(-3deg);
-  -webkit-transform:rotate(-3deg);
-  -moz-transform:rotate(-3deg);
-  position:relative;
-  top:-5px;
-  background:#ccf;
-}
-ul li:nth-child(5n) a.experienceC{
-  -o-transform:rotate(5deg);
-  -webkit-transform:rotate(5deg);
-  -moz-transform:rotate(5deg);
-  position:relative;
-  top:-10px;
-  background:#ffc;
-}
 
 /* Para hacer zoom en las cajitas y aumentar el sombreado (pasando el mouse o haciendo click)*/
 ul li a:hover,ul li a:focus{
