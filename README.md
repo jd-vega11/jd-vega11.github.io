@@ -14,9 +14,9 @@ This web page was developed using HTML5, CSS3, JavaScript and associated librari
 
 ## Deployment
 
-In order to display this web page in your browser, just go to the URL [jd-vega11.github.io] (https://jd-vega11.github.io/)
+In order to display this web page in your browser, just go to the URL [jd-vega11.github.io](https://jd-vega11.github.io/)
 
-Otherwise, if you want to do it locally, you need an HTTP server. I recommend you the following: [http-server] (https://www.npmjs.com/package/http-server) To use it, please, follow the steps indicated below.
+Otherwise, if you want to do it locally, you need an HTTP server. I recommend you the following: [http-server](https://www.npmjs.com/package/http-server) To use it, please, follow the steps indicated below.
 
 1. Clone this repo
 2. Download [Node.js](https://nodejs.org/es/)
